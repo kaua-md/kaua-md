@@ -31,6 +31,9 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaua-md&show_icons=true&theme=dark)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kaua-md)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaua-md&show_icons=true&theme=transparent&hide_title=true&hide_border=true&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaua-md&layout=compact&theme=transparent&hide_border=true)
+
 ---
 
 ## 🌎 Vamos nos conectar?  
