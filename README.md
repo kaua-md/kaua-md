@@ -1,22 +1,24 @@
 <div align="center">
   <h1>👋 Olá, eu sou o Kauã!</h1>
   <p>🎯 **Desenvolvedor Back-End | Estudante de Análise e Desenvolvimento de Sistemas**</p>
-  <p>🚀 Apaixonado por tecnologia, inovação e boas práticas de código  </p>
+  <p>🚀 Apaixonado por tecnologia, inovação e boas práticas de código.</p>
 </div>
-
-
-
-🚀 Apaixonado por tecnologia, inovação e boas práticas de código  
-
----
-
-📖 Sobre Mim  
-💡 Tenho experiência com **Java, JavaScript, Spring Boot, APIs REST, Maven, Spring Data JPA, manipulação de JSON e banco de dados**.  
-📚 Atualmente, curso Análise e **Desenvolvimento de Sistemas** e busco uma **oportunidade de estágio** na área de tecnologia e gestão de projetos.  
-🔎 Sempre em busca de aprender mais sobre **arquitetura de software, DevOps, boas práticas de desenvolvimento e análise de dados**.  
-
----
-
+ 
+<div align="center">
+  <h1>📖 Sobre Mim </h1>
+  <p>💡 Tenho experiência com **Java, JavaScript, Spring Boot, APIs REST, Maven, Spring Data JPA, manipulação de JSON e banco de dados**.</p>
+  <p>📚 Atualmente, curso Análise e **Desenvolvimento de Sistemas** e busco uma **oportunidade de estágio** na área de tecnologia e gestão de projetos.</p>
+  <p>🔎 Sempre em busca de aprender mais sobre **arquitetura de software, DevOps, boas práticas de desenvolvimento e análise de dados**.</p>
+</div>
+ 
+<div align="center">
+  <h1>📖 Sobre Mim </h1>
+  <p>💡 Tenho experiência com **Java, JavaScript, Spring Boot, APIs REST, Maven, Spring Data JPA, manipulação de JSON e banco de dados**.</p>
+  <p>📚 Atualmente, curso Análise e **Desenvolvimento de Sistemas** e busco uma **oportunidade de estágio** na área de tecnologia e gestão de projetos.</p>
+  <p>🔎 Sempre em busca de aprender mais sobre **arquitetura de software, DevOps, boas práticas de desenvolvimento e análise de dados**.</p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" width="150px">
+</div>
+ 
 ## 🚀 Tecnologias & Ferramentas  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
