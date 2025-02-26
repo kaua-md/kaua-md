@@ -33,5 +33,6 @@
   <img ![Top Langs] src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaua-md&layout=compact&theme=transparent&hide_border=true";>
 </div>
 
-## 🌎 Vamos nos conectar?  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kauã-machado/)
+<div align="center">
+  <h1>🌎 Vamos nos conectar?</h1>
+  <img [![LinkedIn] src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"](https://www.linkedin.com/in/kaua-machado/);
