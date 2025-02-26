@@ -13,10 +13,10 @@
 
  <div align="center">
   <h1>## 🚀 Tecnologias & Ferramentas</h1>
-  <img ![Java] src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" width="150px" height="30";>
-  <img ![Spring Boot] src="https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=springboot&logoColor=white" width="150px" height="30";>
-  <img ![JavaScript] src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="150px" height="30";>
-  <img ![Python] src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" width="150px" height="30";>
+  <img ![Java] src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" width="150px" height="40";>
+  <img ![Spring Boot] src="https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=springboot&logoColor=white" width="150px" height="40";>
+  <img ![JavaScript] src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="150px" height="40";>
+  <img ![Python] src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" width="150px" height="40";>
 </div>
   
 
