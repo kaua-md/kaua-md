@@ -28,8 +28,6 @@
 </div>
 
 ## 📊 Estatísticas do GitHub  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaua-md&show_icons=true&theme=dark)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kaua-md)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaua-md&show_icons=true&theme=transparent&hide_title=true&hide_border=true&count_private=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaua-md&layout=compact&theme=transparent&hide_border=true)
@@ -37,8 +35,7 @@
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=kaua-md&theme=transparent&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaua-md&layout=compact&theme=transparent&hide_border=true) 
 
-<img src="https://komarev.com/ghpvc/?username=kaua-md&color=blue" alt="Profile Views" />  
-<img src="https://github-profile-trophy.vercel.app/?username=kaua-md&theme=onedark&row=1&no-frame=true&margin-w=15" alt="Troféus do GitHub" />  
+
 
 ---
 
