@@ -29,8 +29,8 @@
 
 <div align="center">
   <h1>📊 Estatísticas do GitHub</h1>
-  ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=kaua-md&theme=transparent&hide_border=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaua-md&layout=compact&theme=transparent&hide_border=true)
+  <img ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=kaua-md&theme=transparent&hide_border=true)>
+  <img ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaua-md&layout=compact&theme=transparent&hide_border=true)>
 </div>
 
 ## 🌎 Vamos nos conectar?  
