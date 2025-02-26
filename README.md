@@ -13,18 +13,13 @@
 
  <div align="center">
   <h1>## 🚀 Tecnologias & Ferramentas</h1>
-  <img ![Java] src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" width="150px";>
-  <img ![Spring Boot] src="https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=springboot&logoColor=white" width="150px";>
-  <img ![JavaScript] src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="150px";>
-  <img ![Python] src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" width="150px";>
-  
- 
+  <img ![Java] src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" width="150px" height="30";>
+  <img ![Spring Boot] src="https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=springboot&logoColor=white" width="150px" height="30";>
+  <img ![JavaScript] src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="150px" height="30";>
+  <img ![Python] src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" width="150px" height="30";>
 </div>
   
-(https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-(https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+
 
 ---
 
