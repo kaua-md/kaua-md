@@ -1,6 +1,11 @@
-👋 Olá, eu sou o Kauã!
+<div align="center">
+  <h1>👋 Olá, eu sou o Kauã!</h1>
+  <p>🎯 **Desenvolvedor Back-End | Estudante de Análise e Desenvolvimento de Sistemas**</p>
+  <p>🚀 Apaixonado por tecnologia, inovação e boas práticas de código  </p>
+</div>
 
-🎯 **Desenvolvedor Back-End | Estudante de Análise e Desenvolvimento de Sistemas**
+
+
 🚀 Apaixonado por tecnologia, inovação e boas práticas de código  
 
 ---
