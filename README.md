@@ -16,7 +16,7 @@
   <p>💡 Tenho experiência com **Java, JavaScript, Spring Boot, APIs REST, Maven, Spring Data JPA, manipulação de JSON e banco de dados**.</p>
   <p>📚 Atualmente, curso Análise e **Desenvolvimento de Sistemas** e busco uma **oportunidade de estágio** na área de tecnologia e gestão de projetos.</p>
   <p>🔎 Sempre em busca de aprender mais sobre **arquitetura de software, DevOps, boas práticas de desenvolvimento e análise de dados**.</p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" width="150px">
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" width="150px">
 </div>
  
 ## 🚀 Tecnologias & Ferramentas  
