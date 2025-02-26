@@ -27,17 +27,11 @@
 🔹 <strong>Descrição:</strong> Aplicação para consulta de preços de veículos na <strong>Tabela FIPE</strong>, desenvolvida em <strong>Java</strong>.</p>
 </div>
 
-## 📊 Estatísticas do GitHub  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaua-md&show_icons=true&theme=transparent&hide_title=true&hide_border=true&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaua-md&layout=compact&theme=transparent&hide_border=true)
-
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=kaua-md&theme=transparent&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaua-md&layout=compact&theme=transparent&hide_border=true) 
-
-
-
----
+<div align="center">
+  <h1>📊 Estatísticas do GitHub</h1>
+  <p>![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=kaua-md&theme=transparent&hide_border=true)</p>
+  <p>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaua-md&layout=compact&theme=transparent&hide_border=true)</p>
+</div>
 
 ## 🌎 Vamos nos conectar?  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/kauã-machado/)  
