@@ -21,8 +21,10 @@
 
 <div align="center">
   <h1>📌 Projetos em Destaque</h1>
-  <p>🔹 [**Consulta CEP por meio da API ViaCEP**]([https://github.com/kaua-md/ConsultorCEP]) – Um projetocom implantação de API REST com Spring Boot para consulta de ceps.</p>
-  <p>🔹 [**Sistema de consulta de tabela FIPE**]([https://github.com/kaua-md/tabela-fip]) – Aplicação para consulta de tabela FIPE de veículos com Java.</p>
+  <p>### 🚀 [Consulta CEP por meio da API ViaCEP](https://github.com/kaua-md/ConsultorCEP)  
+🔹 **Descrição:** Implementação de API REST com **Spring Boot** para consulta de CEPs via **API ViaCEP**.</p>
+  <p>🔹 🚗 [Sistema de Consulta de Tabela FIPE](https://github.com/kaua-md/tabela-fip)  
+🔹 **Descrição:** Aplicação para consulta de preços de veículos na **Tabela FIPE**, desenvolvida em **Java**.</p>
 </div>
 
 ## 📊 Estatísticas do GitHub  
