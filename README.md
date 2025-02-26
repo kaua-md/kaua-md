@@ -35,4 +35,6 @@
 
 <div align="center">
   <h1>🌎 Vamos nos conectar?</h1>
-  <img [![LinkedIn] src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"](https://www.linkedin.com/in/kaua-machado/);
+  <a href="https://www.linkedin.com/in/kaua-machado/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
